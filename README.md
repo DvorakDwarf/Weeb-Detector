@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/hunar4321/life_code)
 
 # Weeb-Detector
-An AI taught to recognize weebs in discord profile pictures. It takes an image and then outputs how certain it is that the image contained anime. I personally collected and labeled close to 1000 discord profile pictures from random servers to use as training material. Unfortunately due to github restrictions it had to be uploaded in a .zip file in the Dataset directory. The checkpoint of the model couldn't be included for the same reason. The AI trained from the database might have weird behavior on non-square images or images with a high resolution and detail
+An AI taught to recognize weebs in discord profile pictures. It takes an image and then outputs how certain it is that the image contained anime. I personally collected and labeled close to 1000 discord profile pictures from random servers to use as training material. Unfortunately due to github restrictions it had to be uploaded in a .zip file in the Dataset directory. The checkpoint of the model couldn't be included for the same reason. The AI trained from the database might have weird behavior on non-square images or images with high resolution and detail
 
 Examples:
 ---------------------------------
