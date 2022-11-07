@@ -21,6 +21,6 @@ How to use:
 ---------------------------------
 1. Unzip the database
 2. Run the DetectorTrainer.py script to train a model(It shouldn't take longer than half an hour on a potato PC)
-3. Run TestImage.py (Replace the image path to a path with your own image)
+3. Run TestImage.py (Replace the image path with a path to your own image)
 
 Do what you want with the code, but credit would be much appreciated. Contact info in the profile
